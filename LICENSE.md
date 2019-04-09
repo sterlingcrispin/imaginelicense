@@ -1,6 +1,9 @@
 Imagine, an Open Source Software License for Peace and Nonviolence :
+
 v0.1
+
 Copyright (c)
+
 YYYY COPYRIGHT HOLDER
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
@@ -16,8 +19,8 @@ private security force, armed coast guard, or entity or agency of any kind who e
 or weapons including contractors and subcontractors of such agencies.
 
 2. The Software may not be used to develop, support, or maintain:
-  2A - lethal or nonlethal weapon systems of any kind.
-  2B - malicious software such as spyware, stalkerware, keyloggers
+   - 2A lethal or nonlethal weapon systems of any kind.
+   - 2B malicious software such as spyware, stalkerware, keyloggers
   
 3. The above copyright notice and this permission notice shall be included in all copies or substantial
 portions of the Software.
