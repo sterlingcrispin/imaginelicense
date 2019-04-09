@@ -1,5 +1,5 @@
 Imagine, an Open Source Software License for Peace and Nonviolence :
-
+v0.1
 Copyright (c)
 YYYY COPYRIGHT HOLDER
 
